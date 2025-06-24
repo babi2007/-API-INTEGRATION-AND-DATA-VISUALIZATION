@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-DESCRIPTION:
+*DESCRIPTION*:
 
    Objective:
           To fetch real-time weather data using a public API and visualize key weather parameters such as temperature, wind speed, and atmospheric pressure using Python libraries.
@@ -26,7 +26,9 @@ DESCRIPTION:
       (Optional) seaborn – for enhanced visuals (not used in this version)
       API Used: OpenWeatherMap Forecast API
 
+*OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/3bb490fa-19ec-4900-83c1-0d21ba691f38)
 
 
 
